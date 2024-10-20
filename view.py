@@ -1,7 +1,7 @@
 import streamlit as st
 from app import predictSurvival
 
-st.title("Know if you will survive titanic")
+st.title("Would you survive Titanic Ship")
 
 # name,pcl,sex,age ,sibsp, parch,fare,embarked
 
